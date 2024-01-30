@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/23321717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23321717" height="30" width="40" /></a>
 <a href="https://instagram.com/larissinha_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="larissinha_exe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/larissinha_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="larissinha_exe" height="30" width="40" /></a>
-<a href="https://discord.gg/larissinha#6061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="larissinha#6061" height="30" width="40" /></a>
+<a href="https://discord.gg/larissinha#6061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6061" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
