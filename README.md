@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1hKIQQsIHYQ012l8Jh-e2FSij2R6apGEM?usp=drive_link](https://drive.google.com/drive/folders/1hKIQQsIHYQ012l8Jh-e2FSij2R6apGEM?usp=drive_link)
 
-- ⚡ Fun fact **I have four cats 🐈‍⬛**
+- ⚡ Fun fact **I have six cats 🐈‍⬛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
